@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Dropdown_Testsuite,Chrome 121.0.0.0,,,2024-02-01 12:28:33,2024-02-01 12:28:57,23.729s,FAILED
+,,,,,,,
+Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel,Chrome 121.0.0.0,,,2024-02-01 12:28:56,2024-02-01 12:28:57,1.334s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-01 12:28:56,2024-02-01 12:28:56,0.783s,PASSED
+"navigateToUrl(""http://www.amazon.com"")",Chrome 121.0.0.0,,,2024-02-01 12:28:56,2024-02-01 12:28:57,0.441s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement""), category, false)",Chrome 121.0.0.0,,,2024-02-01 12:28:57,2024-02-01 12:28:57,0.071s,FAILED

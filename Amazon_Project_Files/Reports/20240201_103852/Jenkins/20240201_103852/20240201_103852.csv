@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jenkins,Chrome 121.0.0.0,,,2024-02-01 10:38:54,2024-02-01 10:40:12,1m - 18.015s,FAILED
+,,,,,,,
+Test Cases/Keywords/TC_Amazon_ValidateDropdown_withKeyword,Chrome 121.0.0.0,,,2024-02-01 10:40:10,2024-02-01 10:40:12,2.642s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-01 10:40:10,2024-02-01 10:40:10,0.014s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-01 10:40:10,2024-02-01 10:40:11,0.689s,PASSED
+"navigateToUrl(""http://www.amazon.com"")",Chrome 121.0.0.0,,,2024-02-01 10:40:11,2024-02-01 10:40:12,1.821s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement""), ""Books"", false)",Chrome 121.0.0.0,,,2024-02-01 10:40:12,2024-02-01 10:40:12,0.086s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-01 10:40:12,2024-02-01 10:40:12,0.014s,ERROR

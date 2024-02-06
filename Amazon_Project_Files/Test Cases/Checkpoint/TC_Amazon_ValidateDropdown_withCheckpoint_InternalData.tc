@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_ValidateDropdown_withCheckpoint_InternalData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1223254-db17-431d-8f99-4986fa8fb2d5</testCaseGuid>
+</TestCaseEntity>

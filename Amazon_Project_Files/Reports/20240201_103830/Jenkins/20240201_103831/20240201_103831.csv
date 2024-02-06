@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jenkins,Firefox 121.0,,,2024-02-01 10:38:34,2024-02-01 10:38:47,12.364s,FAILED
+,,,,,,,
+Test Cases/Keywords/TC_Amazon_ValidateDropdown_withKeyword,Firefox 121.0,,,2024-02-01 10:38:47,2024-02-01 10:38:47,0.121s,FAILED
+Start listener action : sampleBeforeTestCase,Firefox 121.0,,,2024-02-01 10:38:47,2024-02-01 10:38:47,0.020s,ERROR
+"openBrowser("""")",Firefox 121.0,,,2024-02-01 10:38:47,2024-02-01 10:38:47,0.062s,FAILED
+Start listener action : sampleAfterTestCase,Firefox 121.0,,,2024-02-01 10:38:47,2024-02-01 10:38:47,0.014s,ERROR

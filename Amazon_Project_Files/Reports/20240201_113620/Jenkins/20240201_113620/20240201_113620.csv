@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jenkins,Chrome 121.0.0.0,,,2024-02-01 11:36:22,2024-02-01 11:37:40,1m - 17.305s,FAILED
+,,,,,,,
+Test Cases/Keywords/TC_Amazon_ValidateDropdown_withKeyword,Chrome 121.0.0.0,,,2024-02-01 11:37:38,2024-02-01 11:37:40,2.122s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-01 11:37:38,2024-02-01 11:37:38,0.691s,PASSED
+"navigateToUrl(""http://www.amazon.com"")",Chrome 121.0.0.0,,,2024-02-01 11:37:38,2024-02-01 11:37:40,1.352s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement""), ""Books"", false)",Chrome 121.0.0.0,,,2024-02-01 11:37:40,2024-02-01 11:37:40,0.067s,FAILED

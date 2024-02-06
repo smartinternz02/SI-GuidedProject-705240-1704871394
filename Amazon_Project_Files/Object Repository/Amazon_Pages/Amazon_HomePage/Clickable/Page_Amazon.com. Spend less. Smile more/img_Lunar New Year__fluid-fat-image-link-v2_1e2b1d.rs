@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Lunar New Year__fluid-fat-image-link-v2_1e2b1d</name>
+   <tag></tag>
+   <elementGuidId>d4d58506-4bdc-45fa-97f5-67025f1c00b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CardInstancebPtqAX26Wemu1F-v3yiXrA']/a/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CardInstancebPtqAX26Wemu1F-v3yiXrA > a.a-link-normal._fluid-fat-image-link-v2_style_mergedLinks__10JqZ > div._fluid-fat-image-link-v2_style_fluidFatImageLinkBody__1LsOX > div.a-section.a-spacing-none._fluid-fat-image-link-v2_style_fluidImageContainer__2SOMr > img._fluid-fat-image-link-v2_style_fluidLandscapeImage__2euAK._fluid-fat-image-link-v2_style_fluidImage__gTBjA</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>dd45cadf-e8c0-4aff-b1af-c234881c478c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Lunar New Year</value>
+      <webElementGuid>21821334-7f8a-4110-846a-7ddf8d8a28c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/LunarNY/Fuji_Single_card_Lunar_New_Year_Graphics_1x_EN._SY304_CB585956471_.jpg</value>
+      <webElementGuid>898156c5-35ac-4e1f-bb8b-29b7d0fdf94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_fluid-fat-image-link-v2_style_fluidLandscapeImage__2euAK _fluid-fat-image-link-v2_style_fluidImage__gTBjA</value>
+      <webElementGuid>f946cb03-35ac-4533-bd50-5a1320aeab07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/LunarNY/Fuji_Single_card_Lunar_New_Year_Graphics_2x_EN._SY608_CB585956471_.jpg</value>
+      <webElementGuid>2d81fe84-a21d-4317-826f-30b7a941220a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CardInstancebPtqAX26Wemu1F-v3yiXrA&quot;)/a[@class=&quot;a-link-normal _fluid-fat-image-link-v2_style_mergedLinks__10JqZ&quot;]/div[@class=&quot;_fluid-fat-image-link-v2_style_fluidFatImageLinkBody__1LsOX&quot;]/div[@class=&quot;a-section a-spacing-none _fluid-fat-image-link-v2_style_fluidImageContainer__2SOMr&quot;]/img[@class=&quot;_fluid-fat-image-link-v2_style_fluidLandscapeImage__2euAK _fluid-fat-image-link-v2_style_fluidImage__gTBjA&quot;]</value>
+      <webElementGuid>993a83ac-8b9a-4feb-96fe-394bca12ddb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CardInstancebPtqAX26Wemu1F-v3yiXrA']/a/div/div/img</value>
+      <webElementGuid>e7e247bd-d526-464c-909e-fd18f219ee9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Lunar New Year'])[2]</value>
+      <webElementGuid>08872dda-3ba2-4d35-8dae-fe2f98ec807f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a/div/div/img</value>
+      <webElementGuid>da6f19f6-e0a8-4788-b86f-e3fec5302f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Lunar New Year' and @src = 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/LunarNY/Fuji_Single_card_Lunar_New_Year_Graphics_1x_EN._SY304_CB585956471_.jpg']</value>
+      <webElementGuid>7c48da95-6de2-4473-b969-ceb2a44f2571</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_ValidateDropdown_withKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cc9aba3-fca0-44e5-bdad-fd8231455156</testCaseGuid>
+</TestCaseEntity>

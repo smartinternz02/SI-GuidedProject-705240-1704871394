@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Amazon_LoginConfirmation_TestData_checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Amazon_TestData/DDT_InternalData_Dropdown</source-url>
+   </source-info>
+   <taken-date>2024-02-01T13:00:46.688+05:30</taken-date>
+   <column-names>
+      <column-name>category</column-name>
+      <column-name>item</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Books",
+      "checked": true
+    },
+    {
+      "value": "Da vinci code",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Electronics",
+      "checked": true
+    },
+    {
+      "value": "wires",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Baby",
+      "checked": true
+    },
+    {
+      "value": "Baby dresses",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

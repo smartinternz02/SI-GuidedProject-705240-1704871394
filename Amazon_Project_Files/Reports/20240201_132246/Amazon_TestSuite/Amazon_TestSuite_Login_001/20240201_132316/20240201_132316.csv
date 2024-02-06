@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_Login_001,,,,01-02-2024 13:23:19,01-02-2024 13:23:22,3.258s,FAILED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_Login_001,,,,01-02-2024 13:23:19,01-02-2024 13:23:22,3.108s,FAILED
+"openBrowser("""")",,,,01-02-2024 13:23:19,01-02-2024 13:23:22,2.993s,FAILED

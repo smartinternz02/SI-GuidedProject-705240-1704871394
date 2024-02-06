@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkpoints/Page_Amazon Sign-In/input_Enter your password_signInSubmit",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027signInSubmit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkpoints/Page_Amazon Sign-In/input_Enter your password_signInSubmit_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkpoints/Page_Amazon Sign-In/input_Forgot your password_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkpoints/Page_Amazon Sign-In/input_Forgot your password_password_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Checkpoints/Page_Amazon Sign-In/input_Enter your password_signInSubmit",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Checkpoints/Page_Amazon Sign-In/input_Enter your password_signInSubmit_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Authentication required/input_Enter the letters and numbers above_c_12ed04",
+      "brokenLocator": "//input[@name\u003d\u0027cvf_captcha_input\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Select a delivery address/input_Maries, 94, karivalam, SANKARANKOIL, _9b4776",
+      "brokenLocator": "//input[@name\u003d\u0027address-ui-widgets-saveOriginalOrSuggestedAddress\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/span/span/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Select a delivery address/input_Maries, 94, karivalam, SANKARANKOIL, _9b4776_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Pages/Amazon_OrderProcess/Amazon_cart_ProceedtoCheckout/Page_Amazon.com Shopping Cart/input_This order contains a gift_proceedToR_057b5e",
+      "brokenLocator": "//input[@name\u003d\u0027proceedToRetailCheckout\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

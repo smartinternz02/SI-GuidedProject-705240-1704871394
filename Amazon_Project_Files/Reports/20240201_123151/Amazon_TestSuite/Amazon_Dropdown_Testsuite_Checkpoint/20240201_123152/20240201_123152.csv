@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Dropdown_Testsuite_Checkpoint,Chrome 121.0.0.0,,,2024-02-01 12:31:55,2024-02-01 12:32:22,26.982s,PASSED
+,,,,,,,
+Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel,Chrome 121.0.0.0,,,2024-02-01 12:31:55,2024-02-01 12:32:22,26.832s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-01 12:31:55,2024-02-01 12:31:57,1.395s,PASSED
+"navigateToUrl(""http://www.amazon.com"")",Chrome 121.0.0.0,,,2024-02-01 12:31:57,2024-02-01 12:32:00,3.212s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement""), ""Books"", false)",Chrome 121.0.0.0,,,2024-02-01 12:32:00,2024-02-01 12:32:09,9.273s,PASSED
+"setText(findTestObject(""Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,2024-02-01 12:32:09,2024-02-01 12:32:12,2.306s,PASSED
+"click(findTestObject(""Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-01 12:32:12,2024-02-01 12:32:22,10.000s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-01 12:32:22,2024-02-01 12:32:22,0.159s,PASSED
+"verifyCheckpoint(findCheckpoint(""Checkpoints/Checkpoint_Excel/Checkpoint_Excel_001""), false)",Chrome 121.0.0.0,,,2024-02-01 12:32:22,2024-02-01 12:32:22,0.374s,PASSED

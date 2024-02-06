@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_Login_001,Chrome 121.0.0.0,,,01-02-2024 13:24:20,01-02-2024 13:25:00,39.967s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_Login_001,Chrome 121.0.0.0,,,01-02-2024 13:24:20,01-02-2024 13:25:00,39.833s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,01-02-2024 13:24:20,01-02-2024 13:24:22,2.178s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,01-02-2024 13:24:22,01-02-2024 13:24:24,2.184s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon.com. Spend less. Smile more/span_Account  Lists""))",Chrome 121.0.0.0,,,01-02-2024 13:24:24,01-02-2024 13:24:55,30.790s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Email or mobile phone number_email""), ""rmeswar003@gmail.com"")",Chrome 121.0.0.0,,,01-02-2024 13:24:55,01-02-2024 13:24:57,1.303s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,01-02-2024 13:24:57,01-02-2024 13:24:58,1.545s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Forgot your password_password""), ""9JFooAukEDvTa89YHkAC3w=="")",Chrome 121.0.0.0,,,01-02-2024 13:24:58,01-02-2024 13:24:59,1.102s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,01-02-2024 13:24:59,01-02-2024 13:25:00,0.407s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,01-02-2024 13:25:00,01-02-2024 13:25:00,0.219s,PASSED

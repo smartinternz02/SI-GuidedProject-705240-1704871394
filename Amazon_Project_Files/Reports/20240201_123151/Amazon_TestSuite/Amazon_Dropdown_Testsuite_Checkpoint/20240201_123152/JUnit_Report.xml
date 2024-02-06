@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_Dropdown_Testsuite_Checkpoint" time="26.982" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_Dropdown_Testsuite_Checkpoint" tests="1" failures="0" errors="0" time="26.982" skipped="0" timestamp="2024-02-01 12:31:55" hostname="rmesw - MARIES" id="Test Suites/Amazon_TestSuite/Amazon_Dropdown_Testsuite_Checkpoint">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rmesw\\git\\Katalon_Testing\\Reports\\20240201_123151\\Amazon_TestSuite\\Amazon_Dropdown_Testsuite_Checkpoint\\20240201_123152"/>
+         <property name="logFiles" value="C:\\Users\\rmesw\\git\\Katalon_Testing\\Reports\\20240201_123151\\Amazon_TestSuite\\Amazon_Dropdown_Testsuite_Checkpoint\\20240201_123152\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rmesw - MARIES"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.36.64"/>
+         <property name="sessionId" value="81c264c17f7c5d19475fe1f2f19c7468"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel" time="26.832" classname="Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel" status="PASSED">
+         <system-out><![CDATA[2024-02-01 12:31:55 - [TEST_CASE][PASSED] - Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel: Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel
+
+2024-02-01 12:31:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-01 12:31:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-02-01 12:31:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-01 12:31:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-01 12:31:57 - [TEST_STEP][PASSED] - navigateToUrl("http://www.amazon.com"): Navigate to 'http://www.amazon.com' successfully
+
+2024-02-01 12:32:00 - [MESSAGE][PASSED] - Navigate to 'http://www.amazon.com' successfully
+
+2024-02-01 12:32:00 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement"), "Books", false): All options with label 'Books' are selected in object 'Object Repository/Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement' 
+
+2024-02-01 12:32:09 - [MESSAGE][PASSED] - All options with label 'Books' are selected in object 'Object Repository/Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/CategoryElement' 
+
+2024-02-01 12:32:09 - [TEST_STEP][PASSED] - setText(findTestObject("Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), "Da vinci code"): Text 'Da vinci code' is set on object 'Object Repository/Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+2024-02-01 12:32:12 - [MESSAGE][PASSED] - Text 'Da vinci code' is set on object 'Object Repository/Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+2024-02-01 12:32:12 - [TEST_STEP][PASSED] - click(findTestObject("Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+2024-02-01 12:32:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Category_Validation_Excel_OR/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+2024-02-01 12:32:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-01 12:32:22 - [MESSAGE][PASSED] - Browser is closed
+
+2024-02-01 12:32:22 - [TEST_STEP][PASSED] - verifyCheckpoint(findCheckpoint("Checkpoints/Checkpoint_Excel/Checkpoint_Excel_001"), false): Checkpoint data and Source data are matched
+
+2024-02-01 12:32:22 - [MESSAGE][PASSED] - Checkpoint data and Source data are matched]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-02-01 12:31:55 - [TEST_SUITE][PASSED] - Amazon_Dropdown_Testsuite_Checkpoint: Test Cases/Checkpoint/TC_Amazon_ValidateDropdown_withCheckpoint_Excel]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
